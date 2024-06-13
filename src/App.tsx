@@ -4,7 +4,7 @@ import Lista from './components/Lista';
 
 function App() {
   return (
-    <div className="App">a
+    <div className="App">
       <Formulario/>
       <Lista/>
     </div>
